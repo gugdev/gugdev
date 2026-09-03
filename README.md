@@ -53,7 +53,7 @@ Aplicativo Android de educação em higiene bucal para crianças de 4 a 8 anos, 
 
 **Minha atuação:** desenvolvimento em equipe, com contribuições em back-end, front-end e criação de personagem.
 
-[Ver repositório da equipe](https://github.com/Enzo-Dutra/EscovAcao) · [Ver repositório no meu perfil](https://github.com/gugdev/EscovAcaoApp)
+[Ver repositório da equipe](https://github.com/Enzo-Dutra/EscovAcao)
 
 ### PagVan
 
