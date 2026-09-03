@@ -1,73 +1,58 @@
-# Olá, eu sou Gustavo Alencar Matos 👋
+# Gustavo Alencar Matos
 
-Estudante de Engenharia de Software com foco em **Inteligência Artificial aplicada**, automação e desenvolvimento de software.
+**Engenharia de Software · Inteligência Artificial aplicada · Automação**
 
-Atualmente, desenvolvo projetos que combinam LLMs, integração de APIs, workflows de IA e experiências web/mobile. Gosto especialmente de transformar problemas reais em produtos funcionais, com atenção à lógica, à experiência do usuário e ao trabalho em equipe.
+Estudante de Engenharia de Software no ENIAC, interessado em transformar problemas reais em produtos digitais. Trabalho com integração de LLMs, automações, APIs e experiências web/mobile, sempre deixando clara a minha contribuição em projetos desenvolvidos em equipe.
 
-## Áreas de interesse
+[Portfólio](https://gustavo-alencar.vercel.app) · [LinkedIn](https://linkedin.com/in/gustavo-alencar-matos) · [E-mail](mailto:galencarmatos@gmail.com)
 
-- Inteligência Artificial generativa e integração de LLMs
-- Automação e orquestração de workflows com n8n
-- Desenvolvimento back-end e integração de APIs REST
-- Desenvolvimento front-end e UI/UX
-- Construção de produtos digitais com IA
+## No que estou trabalhando
 
-## Tecnologias
+- Aplicações e workflows com IA generativa
+- Automação com n8n, APIs REST e webhooks
+- Desenvolvimento front-end, back-end e mobile
+- Produtos digitais com foco em experiência do usuário
 
-**Linguagens:** JavaScript, Python, Java, PHP, C e C++  
-**Web e integração:** HTML, CSS, Node.js, APIs REST, JSON e Webhooks  
-**Dados:** MySQL e PostgreSQL  
-**Ferramentas:** Git, GitHub, n8n, Vercel e Visual Studio Code
+## Projetos selecionados
 
-## Projetos em destaque
-
-### PraxUs AI
-
-Solução criada durante o Hackathon ENIAC Lab Innovation 2026, no qual a equipe conquistou o **2º lugar**. O produto personaliza a comunicação em operações de cobrança de acordo com as interações do usuário.
-
-**Minha atuação:** desenvolvimento e aprimoramento da camada de IA, estruturação dos workflows e integração entre modelos e APIs com n8n, webhooks e JSON.
-
-**Status atual:** a interface do protótipo permanece disponível, mas o workflow de IA não está ativo.
-
-[Ver projeto da equipe](https://github.com/marcocaparra/PraxUsLanding) · [Ver interface do protótipo](https://praxusai.vercel.app)
-
-### BinGo
+### BinGo — produto em desenvolvimento
 
 Ecossistema gamificado para incentivar e registrar o descarte adequado de resíduos eletroeletrônicos em escolas.
 
-**Minha atuação:** responsável pela implementação do front-end do aplicativo, incluindo splash screen, carteira, missões e componentes de gamificação. Também participo da interface do totem, da experiência do usuário e da frente de IA.
+**Minha atuação:** front-end do aplicativo em Flutter/Dart, UI/UX, interface do totem e frente de IA. Implementei jornadas de missões, acompanhamento de impacto e navegação pela BinGópolis.
 
-[Ver repositório do projeto](https://github.com/marcocaparra/BinGo)
+[Ver o projeto no portfólio](https://gustavo-alencar.vercel.app/#projetos) · Repositório da equipe atualmente privado
 
-### ARAS — Agenda e Registro da Assistência Social
+### PraxUs AI — 2º lugar no ENIAC Lab Innovation 2026
 
-Solução desenvolvida no Hackathon Experimenta Guarulhos para auxiliar a padronização de agendamentos e registros iniciais em unidades socioassistenciais, mantendo validação humana no processo.
+Solução de cobrança adaptativa que personaliza a comunicação conforme o contexto e as interações do usuário.
 
-**Minha atuação:** desenvolvimento da lógica de back-end, processamento e estruturação de dados, integração com IA e contribuições no front-end.
+**Minha atuação:** arquitetura da camada de IA, workflows no n8n e integração entre múltiplos LLMs, APIs REST, webhooks e JSON.
 
-[Ver projeto da equipe](https://github.com/marcocaparra/Aras) · [Ver demonstração](https://landingpage-aras.vercel.app)
+[Código da equipe](https://github.com/marcocaparra/PraxUsLanding) · [Ver landing page](https://praxusai.vercel.app)
 
-### EscovAção
+> A interface está preservada, mas o workflow de IA encontra-se desativado.
 
-Aplicativo Android de educação em higiene bucal para crianças de 4 a 8 anos, com conteúdo lúdico, temporizador de escovação e elementos de gamificação.
+### ARAS — Hackathon Experimenta Guarulhos 2026
 
-**Minha atuação:** desenvolvimento em equipe, com contribuições em back-end, front-end e criação de personagem.
+Solução para estruturar e padronizar registros iniciais de atendimento em unidades CRAS e CREAS, mantendo validação humana no processo.
 
-[Ver repositório da equipe](https://github.com/Enzo-Dutra/EscovAcao)
+**Minha atuação:** lógica de back-end, estruturação de dados, integração com IA e colaboração na interface em TypeScript.
 
-### PagVan
+[Código da equipe](https://github.com/marcocaparra/Aras) · [Ver landing page](https://landingpage-aras.vercel.app)
 
-Sistema web para motoristas de vans escolares gerenciarem alunos, rotas, chamadas e pagamentos.
+### Outros projetos em equipe
 
-**Minha atuação:** desenvolvimento back-end em equipe, utilizando JavaScript, PHP e MySQL. Minha participação está registrada no README do repositório original; os commits públicos foram realizados pelo responsável pelo repositório.
+- **EscovAção:** aplicativo Android em Java/XML para apoiar hábitos de higiene bucal infantil. [Código da equipe](https://github.com/Enzo-Dutra/EscovAcao)
+- **PagVan:** sistema web em PHP, JavaScript e MySQL para gestão de vans escolares. [Código da equipe](https://github.com/Enzo-Dutra/PagVan)
 
-[Ver repositório da equipe](https://github.com/Enzo-Dutra/PagVan)
+## Tecnologias
+
+- **IA e automação:** integração de LLMs, n8n, APIs REST, webhooks e JSON
+- **Desenvolvimento:** JavaScript, TypeScript, Python, Java, PHP, Dart/Flutter, HTML e CSS
+- **Dados e ferramentas:** MySQL, PostgreSQL, Git, GitHub, Vercel e Visual Studio Code
 
 ## Formação
 
-- **Bacharelado em Engenharia de Software** — ENIAC, conclusão prevista para dezembro de 2028
-- **Ensino Médio integrado ao Técnico em Informática** — Colégio ENIAC, conclusão prevista para 2026
-
-## Contato
-
-[LinkedIn](https://linkedin.com/in/gustavo-alencar-matos) · [GitHub](https://github.com/gugdev)
+- **Engenharia de Software** — Centro Universitário ENIAC, conclusão prevista para dezembro de 2028
+- **Ensino Médio integrado ao Técnico em Informática** — Colégio ENIAC, conclusão prevista para dezembro de 2026
