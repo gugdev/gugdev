@@ -2,7 +2,7 @@
 
 **Engenharia de Software · Inteligência Artificial aplicada · Automação**
 
-Estudante de Engenharia de Software no ENIAC, interessado em transformar problemas reais em produtos digitais. Trabalho com integração de LLMs, automações, APIs e experiências web/mobile, sempre deixando clara a minha contribuição em projetos desenvolvidos em equipe.
+Estudante de Engenharia de Software no ENIAC. Gosto de entender problemas reais e transformá-los em produtos digitais que facilitem a vida das pessoas. Trabalho com integração de LLMs, automações, APIs e experiências web/mobile, sempre deixando clara a minha contribuição em projetos desenvolvidos em equipe.
 
 [Portfólio](https://gustavo-alencar.vercel.app) · [LinkedIn](https://linkedin.com/in/gustavo-alencar-matos) · [E-mail](mailto:galencarmatos@gmail.com)
 
@@ -56,3 +56,7 @@ Solução para estruturar e padronizar registros iniciais de atendimento em unid
 
 - **Engenharia de Software** — Centro Universitário ENIAC, conclusão prevista para dezembro de 2028
 - **Ensino Médio integrado ao Técnico em Informática** — Colégio ENIAC, conclusão prevista para dezembro de 2026
+
+## O que guia meu trabalho
+
+Meu objetivo é usar tecnologia para facilitar a vida das pessoas. Quero criar soluções que simplifiquem rotinas, reduzam tarefas repetitivas e deixem processos mais claros, devolvendo tempo e energia para o que realmente importa.
