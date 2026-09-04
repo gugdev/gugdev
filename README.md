@@ -1,5 +1,7 @@
 # Gustavo Alencar Matos
 
+[Read this profile in English](./README.en.md)
+
 **Engenharia de Software · Inteligência Artificial aplicada · Automação**
 
 Estudante de Engenharia de Software no ENIAC. Gosto de entender problemas reais e transformá-los em produtos digitais que facilitem a vida das pessoas. Trabalho com integração de LLMs, automações, APIs e experiências web/mobile, sempre deixando clara a minha contribuição em projetos desenvolvidos em equipe.
